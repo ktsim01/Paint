@@ -1,1 +1,3 @@
 # Paint
+
+My version of paint. It can do more than what a usual painting program can do. User can type in characters wherever they want using the mouse. One can use this feature to draw various shapes, such as circles using ‘O’, create words or sentences. In addition, one can drag the characters as if the brush uses a character instead of a point. While doing this, one can use the mouse scroller to change the color of the brush. The advantage of this feature is that you can change colors while drawing where one can create a gradient effect. This is also possible while using a simple point brush. This project uses Canvas which is part of Java AWT.
